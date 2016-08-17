@@ -1,0 +1,17 @@
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Assembly-CSharp-firstpass.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/obj/Debug/Assembly-CSharp-firstpass.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/obj/Debug/Assembly-CSharp-firstpass.dll.mdb
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/UnityEngine.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/UnityEditor.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Mono.Cecil.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Unity.DataContract.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/ianhuang/Desktop/nomanspie/No Man's Pie/Temp/bin/Debug/Mono.Cecil.Mdb.dll
