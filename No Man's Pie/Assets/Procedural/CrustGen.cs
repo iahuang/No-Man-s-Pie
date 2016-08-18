@@ -13,6 +13,10 @@ public class CrustGen : MonoBehaviour {
 	public GameObject blob;
 	float roughness = 0;
 	float blobsize = 10;
+	float pdist = 0;
+	float temp = 170;
+	float dlen = 24;
+	float dtime = 0;
 	// Use this for initialization
 	void Start () {
 		step = gen_r * 2 * Mathf.PI;
@@ -30,11 +34,18 @@ public class CrustGen : MonoBehaviour {
 		while (!Gen_Blob()) {
 			
 		}
+		pdist = Random.Range (2, 12)+Random.value;
+		dtime = 10 / pdist;
+		temp = temp / pdist;
+
+
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		//Gen_Blob ();
+		
+
 	}
 	Color Gen_Clr () {
 		return new Color(crustClr.r+(Random.value*(devi*2)-devi),crustClr.g+(Random.value*(devi*2)-devi),crustClr.b+(Random.value*(devi*2)-devi));
