@@ -17,6 +17,7 @@ public class CrustGen : MonoBehaviour {
 	float temp = 170;
 	float dlen = 24;
 	float dtime = 0;
+	public GameObject pietin;
 	// Use this for initialization
 	void Start () {
 		step = gen_r * 2 * Mathf.PI;
@@ -38,7 +39,7 @@ public class CrustGen : MonoBehaviour {
 		dtime = 10 / pdist;
 		temp = temp / pdist;
 
-
+		pietin.transform.localScale = new Vector3 (gen_r*2, gen_r*2, gen_r*2);
 
 	}
 	

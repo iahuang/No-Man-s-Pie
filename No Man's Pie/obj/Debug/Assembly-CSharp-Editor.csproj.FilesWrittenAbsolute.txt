@@ -63,3 +63,8 @@
 /Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/Unity.CecilTools.dll
 /Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/Mono.Cecil.Pdb.dll
 /Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
+/Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/UnityEditor.iOS.Extensions.dll
+/Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll
+/Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/UnityEditor.iOS.Extensions.Xcode.dll
+/Users/ianhuang/Desktop/No-Man-s-Pie/No Man's Pie/Temp/bin/Debug/UnityEditor.iOS.Extensions.Common.dll
