@@ -45,7 +45,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Destructible.cs" />
      <Compile Include="Assets\GUI\HUD.cs" />
+     <Compile Include="Assets\Gun.cs" />
      <Compile Include="Assets\Procedural\CrustGen.cs" />
      <Compile Include="Assets\Procedural\PlanetVars.cs" />
      <Compile Include="Assets\Procedural\Starter.cs" />
