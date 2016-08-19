@@ -23,7 +23,8 @@ public class CrustGen : MonoBehaviour {
 		step = gen_r * 2 * Mathf.PI;
 		pieID = GetComponent<PlanetVars> ().pieID;
 		Random.seed = pieID;
-		crustClr = new Color (Random.value, Random.value * 0.9f, Random.value * 0.2f);
+		float red = Random.value+0.5f;
+		crustClr = new Color (red, 1-red*0.5f, Random.value * 0.2f);
 		devi = Random.value * 0.05f;
 		size = Random.Range (50, 100);
 
